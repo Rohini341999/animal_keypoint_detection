@@ -1,0 +1,142 @@
+[
+  {
+    "file": "animated_horse_1.glb",
+    "dimensions_m": {
+      "x": 3.1595,
+      "y": 2.0,
+      "z": 2.7564
+    },
+    "bounds_m": {
+      "min_x": -1.2402,
+      "max_x": 1.9193,
+      "min_y": -1.0,
+      "max_y": 1.0,
+      "min_z": -1.0,
+      "max_z": 1.7564
+    },
+    "mesh_count": 3,
+    "scale_to_1p70m_height": 0.616749,
+    "spawn_z_offset_m": 1.0,
+    "center_z_m": 0.3782
+  },
+  {
+    "file": "animated_horse_2.glb",
+    "dimensions_m": {
+      "x": 3.1595,
+      "y": 2.0,
+      "z": 2.7564
+    },
+    "bounds_m": {
+      "min_x": -1.2402,
+      "max_x": 1.9193,
+      "min_y": -1.0,
+      "max_y": 1.0,
+      "min_z": -1.0,
+      "max_z": 1.7564
+    },
+    "mesh_count": 4,
+    "scale_to_1p70m_height": 0.616746,
+    "spawn_z_offset_m": 1.0,
+    "center_z_m": 0.3782
+  },
+  {
+    "file": "esperanza_horse.glb",
+    "dimensions_m": {
+      "x": 1.9021,
+      "y": 3.3456,
+      "z": 3.3533
+    },
+    "bounds_m": {
+      "min_x": -0.9511,
+      "max_x": 0.9511,
+      "min_y": -1.9572,
+      "max_y": 1.3883,
+      "min_z": -1.0,
+      "max_z": 2.3533
+    },
+    "mesh_count": 8,
+    "scale_to_1p70m_height": 0.506966,
+    "spawn_z_offset_m": 1.0,
+    "center_z_m": 0.6766
+  },
+  {
+    "file": "horse.glb",
+    "dimensions_m": {
+      "x": 1.9021,
+      "y": 2.4061,
+      "z": 2.8844
+    },
+    "bounds_m": {
+      "min_x": -0.9511,
+      "max_x": 0.9511,
+      "min_y": -1.4061,
+      "max_y": 1.0,
+      "min_z": -1.0,
+      "max_z": 1.8844
+    },
+    "mesh_count": 6,
+    "scale_to_1p70m_height": 0.589373,
+    "spawn_z_offset_m": 1.0,
+    "center_z_m": 0.4422
+  },
+  {
+    "file": "horse_1.glb",
+    "dimensions_m": {
+      "x": 32.6916,
+      "y": 25.6103,
+      "z": 33.5819
+    },
+    "bounds_m": {
+      "min_x": -7.7087,
+      "max_x": 24.9829,
+      "min_y": -15.5326,
+      "max_y": 10.0777,
+      "min_z": -1.0,
+      "max_z": 32.5819
+    },
+    "mesh_count": 10,
+    "scale_to_1p70m_height": 0.050622,
+    "spawn_z_offset_m": 1.0,
+    "center_z_m": 15.791
+  },
+  {
+    "file": "horse_2.glb",
+    "dimensions_m": {
+      "x": 32.6916,
+      "y": 25.6103,
+      "z": 33.5819
+    },
+    "bounds_m": {
+      "min_x": -7.7087,
+      "max_x": 24.9829,
+      "min_y": -15.5326,
+      "max_y": 10.0777,
+      "min_z": -1.0,
+      "max_z": 32.5819
+    },
+    "mesh_count": 11,
+    "scale_to_1p70m_height": 0.050622,
+    "spawn_z_offset_m": 1.0,
+    "center_z_m": 15.791
+  },
+  {
+    "file": "horse_4.glb",
+    "dimensions_m": {
+      "x": 2.8234,
+      "y": 2.0,
+      "z": 3.2277
+    },
+    "bounds_m": {
+      "min_x": -1.1647,
+      "max_x": 1.6587,
+      "min_y": -1.0,
+      "max_y": 1.0,
+      "min_z": -1.0,
+      "max_z": 2.2277
+    },
+    "mesh_count": 7,
+    "scale_to_1p70m_height": 0.526697,
+    "spawn_z_offset_m": 1.0,
+    "center_z_m": 0.6138
+  }
+]

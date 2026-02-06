@@ -1,0 +1,8 @@
+file,dim_x,dim_y,dim_z,scale_to_1p70m_height,spawn_z_offset_m,mesh_count
+animated_horse_1.glb,3.1595,2.0,2.7564,0.616749,1.0,3
+animated_horse_2.glb,3.1595,2.0,2.7564,0.616746,1.0,4
+esperanza_horse.glb,1.9021,3.3456,3.3533,0.506966,1.0,8
+horse.glb,1.9021,2.4061,2.8844,0.589373,1.0,6
+horse_1.glb,32.6916,25.6103,33.5819,0.050622,1.0,10
+horse_2.glb,32.6916,25.6103,33.5819,0.050622,1.0,11
+horse_4.glb,2.8234,2.0,3.2277,0.526697,1.0,7

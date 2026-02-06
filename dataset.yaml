@@ -1,0 +1,16 @@
+# YOLO Pose Dataset Configuration
+# Horse dataset with 26 keypoints (Animal3D standard)
+
+path: ./
+train: images/train
+val: images/val
+
+# Keypoints
+kpt_shape: [26, 3]  # [num_keypoints, (x, y, visibility)]
+
+# Classes
+names:
+  0: horse
+
+# Keypoint names (for reference)
+# ['L_Eye', 'R_Eye', 'Nose', 'L_EarBase', 'R_EarBase', 'L_EarTip', 'R_EarTip', 'Throat', 'Withers', 'L_F_Elbow', 'R_F_Elbow', 'L_F_Knee', 'R_F_Knee', 'L_F_Paw', 'R_F_Paw', 'L_B_Elbow', 'R_B_Elbow', 'L_B_Knee', 'R_B_Knee', 'L_B_Paw', 'R_B_Paw', 'TailBase', 'Spine1', 'Spine2', 'Spine3', 'TailTip']

@@ -1,0 +1,44 @@
+# ==========================================
+# ROS2 / Colcon Build Artifacts
+# ==========================================
+build/
+install/
+log/
+colcon_ignore
+
+# ==========================================
+# Python Standard
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+.env
+
+# Distribution / packaging
+dist/
+*.egg-info/
+.eggs/
+
+# ==========================================
+# Antigravity (Google AI Editor) Specific
+# ==========================================
+# Ignore local agent indexing and cache
+.antigravity/
+.gemini_cache/
+.aiexclude
+
+# Antigravity uses .geminiignore for AI context control
+# (Keep the file, but ignore heavy datasets if listed there)
+# !.geminiignore
+
+# ==========================================
+# IDEs and Tools
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

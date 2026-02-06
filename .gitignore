@@ -42,3 +42,38 @@ dist/
 .idea/
 .DS_Store
 Thumbs.db
+
+# ==========================================
+# Other
+# ==========================================
+images/
+labels/
+runs/
+sample_coco/
+coco128/
+visualizations/
+*.zip
+*.tar.gz
+*.tar
+*.svg
+
+# Ros2
+obj_files/
+build/
+install/
+log/
+colcon_ignore/
+.ros_log/
+ros2_ws/debug_frames/
+ros2_ws/obj_files/
+coco_annotations/
+output_dirs/
+Project_Report.md
+*BSBI*
+annotations_train.json
+annotations_val.json
+annotations.json
+yolo11n-pose.pt
+yolo26n.pt
+yolo26s-pose.pt
+yolov8s-pose.pt

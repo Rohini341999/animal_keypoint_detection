@@ -1,0 +1,7 @@
+Experiment,mAP50-95_Pose,Latency_ms,FPS,Size_MB,Fitness
+yolo11n_tuned,0.0586,146.41,6.8,6.18,0.0004
+yolo26s_tuned,0.0099,348.42,2.9,75.98,3e-05
+yolov11n-pose-horse,0.0327,127.9,7.8,6.18,0.00025
+yolov26s-pose-horse,0.0203,320.25,3.1,75.98,6e-05
+yolov8s-pose-horse,0.0589,328.57,3.0,23.04,0.00018
+yolov8s_tuned,0.0479,332.61,3.0,23.04,0.00014

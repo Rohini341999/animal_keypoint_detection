@@ -1,0 +1,14 @@
+Index,Anatomical Keypoint,Index,Anatomical Keypoint
+0,Left Eye,13,Withers (Base of Neck)
+1,Right Eye,14,Front Left Knee (Carpus)
+2,Chin / Lower Lip,15,Front Right Knee (Carpus)
+3,Front Left Hoof,16,Rear Left Hock (Tarsus)
+4,Front Right Hoof,17,Rear Right Hock (Tarsus)
+5,Rear Left Hoof,18,Neck (Mid-point)
+6,Rear Right Hoof,19,Tail Base (Dock)
+7,Croup (Highest point of rump),20,Left Ear Base
+8,Front Left Elbow,21,Right Ear Base
+9,Front Right Elbow,22,Left Nostril
+10,Rear Left Stifle (Knee),23,Right Nostril
+11,Rear Right Stifle (Knee),24,Muzzle / Nose Tip
+12,Shoulder / Chest,25,Point of Hip
